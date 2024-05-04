@@ -1,0 +1,373 @@
+Action Date,Company Name,Ticker,Split Ratio,Fractional Behavior
+2023-10-06,"Save Foods, Inc.",SVFD,1:7,True
+2023-10-06,VivoPower International PLC,VVPR,1:10,True
+2023-10-05,"China SXT Pharmaceuticals, Inc.",SXTC,1:25,True
+2023-10-02,"EBET, INC.",EBET,1:30,True
+2023-09-28,SciSparc Ltd.,SPRC,1:26,False
+2023-09-27,"Rubicon Technologies, Inc.",RBT,1:8,True
+2023-09-26,"Flotek Industries, Inc.",FTK,1:6,True
+2023-09-26,"Vaccinex, Inc.",VCNX,1:15,True
+2023-09-25,Connexa Sports Technologies Inc.,CNXA,1:40,True
+2023-09-25,E-Home Household Service Holdings Limited,EJH,1:10,True
+2023-09-25,"Gaucho Group Holdings, Inc.",VINO,1:10,True
+2023-09-22,"Sigma Additive Solutions, Inc.",SASI,1:20,True
+2023-09-21,PolyPid Ltd.,PYPD,1:30,False
+2023-09-20,"Habytat, Inc.",DATS,1:10,True
+2023-09-18,Antelope Enterprise Holdings Limited,AEHL,1:10,True
+2023-09-18,"AYRO, Inc.",AYRO,1:8,True
+2023-09-15,Kaixin Auto Holdings,KXIN,1:15,True
+2023-09-14,"Astra Space, Inc.",ASTR,1:15,True
+2023-09-13,"Avinger, Inc.",AVGR,1:15,True
+2023-09-12,Ampio Pharmaceuticals Inc.,AMPE,1:20,True
+2023-09-12,"Ascent Solar Technologies, Inc.",ASTI,1:200,True
+2023-09-12,"Leafly Holdings, Inc.",LFLY,1:20,True
+2023-09-11,1847 Holdings LLC,EFSH,1:25,True
+2023-09-08,"IMAC Holdings, Inc.",BACK,1:30,True
+2023-09-07,Grom Social Enterprises Inc.,GROM,1:20,True
+2023-09-07,Ryvyl Inc.,RVYL,1:10,True
+2023-08-31,SeqLL Inc.,SQL,1:40,True
+2023-09-26,"Digital Media Solutions, Inc.",DMS,1:15,True
+2023-08-28,Faraday Future Intelligent Electric Inc.,FFIE,1:80,True
+2023-08-25,"Recruiter.com Group, Inc.",RCRT,1:15,True
+2023-09-29,BTC Digital Ltd.,METX,1:20,True
+2023-08-24,Momentus Inc. Class A,MNTS,1:50,True
+2023-08-23,"Sunlight Financial Holdings, Inc.",SUNL,1:20,True
+2023-08-18,"Aditxt, Inc.",ADTX,1:40,True
+2023-08-15,Crown Electrokinetics Corp.,CRKN,1:60,True
+2023-08-11,"Mullen Automotive, Inc.",MULN,1:9,True
+2023-08-07,"Mobiquity Technologies, Inc.",MOBQ,1:15,True
+2023-08-04,Otonomo Technologies Ltd.,OTMO,1:15,True
+2023-08-02,"Smart for Life, Inc.",SMFL,1:3,True
+2023-08-01,Taoping Inc.,TAOP,1:10,True
+2023-07-28,"Katapult Holdings, Inc.",KPLT,1:25,True
+2023-07-28,"Ontrak, Inc.",OTRK,1:6,True
+2023-07-28,Universe Pharmaceuticals Inc.,UPC,1:6,True
+2023-07-26,Benitec Biopharma Inc.,BNTC,1:17,True
+2023-07-10,authID Inc.,AUID,1:8,True
+2023-07-10,"Jiuzi Holdings, Inc.",JZXN,1:18,True
+2023-07-06,Talis Biomedical Corporation,TLIS,1:15,True
+2023-07-05,Agrify Corporation,AGFY,1:20,True
+2023-07-05,Biofrontera Inc.,BFRI,1:20,True
+2023-07-05,"22nd Century Group, Inc.",XXII,1:15,True
+2023-07-03,"Biotricity, Inc.",BTCY,1:6,True
+2023-07-03,PainReform Ltd. Ordinary Shares,PRFX,1:10,True
+2023-06-30,"Inhibikase Therapeutics, Inc.",IKT,1:6,True
+2023-06-29,"Marpai, Inc. Class A",MRAI,1:4,True
+2023-06-27,"American Rebel Holdings, Inc.",AREB,1:25,True
+2023-06-22,"TRxADE HEALTH, Inc.",MEDS,1:15,True
+2048-08-20,"IZEA Worldwide, Inc.",IZEA,1:4,True
+2023-06-15,"ATI Physical Therapy, Inc.",ATIP,1:50,True
+2023-06-15,Boxlight Corporation Class A,BOXL,1:8,True
+2023-06-12,"Creative Medical Technology Holdings, Inc.",CELZ,1:10,True
+2023-06-09,Golden Minerals Company,AUMN,1:25,True
+2023-06-05,"Acorda Therapeutics, Inc.",ACOR,1:20,True
+2023-06-01,"Troika Media Group, Inc.",TRKA,1:25,True
+2023-06-01,"Calyxt, Inc.",CLXT,1:5,True
+2023-05-30,Bit Origin Limited Ordinary Shares,BTOG,1:30,True
+2023-05-26,"LiqTech International, Inc.",LIQT,1:8,True
+2023-05-24,"Nova Lifestyle, Inc.",NVFY,1:5,True
+2023-08-28,"SeaChange International, Inc.",SEAC,1:20,True
+2023-05-17,LadRx Corporation,LADX,1:100,True
+2023-05-16,Greenidge Generation Holdings Inc. Class A,GREE,1:10,True
+2023-05-16,"Stronghold Digital Mining, Inc. Class A",SDIG,1:10,True
+2023-05-15,"Xenetic Biosciences, Inc.",XBIO,1:10,True
+2023-05-15,Galmed Pharmaceuticals Ltd. Ordinary Shares,GLMD,1:15,True
+2023-05-15,"BitNile Metaverse, Inc.",BNMV,1:30,True
+2023-05-15,"Eastside Distilling, Inc.",EAST,1:20,True
+2023-05-15,"Alpine 4 Holdings, Inc. Class A",ALPP,1:8,True
+2023-05-15,"ReTo Eco-Solutions, Inc.",RETO,1:10,True
+2023-05-15,"Infobird Co., Ltd Ordinary Shares",IFBD,1:5,True
+2023-05-12,Lipocine Inc.,LPCN,1:17,True
+2023-05-12,Venus Concept Inc.,VERO,1:15,True
+2023-05-11,"Hepion Pharmaceuticals, Inc.",HEPA,1:20,True
+2023-05-11,"Vinco Ventures, Inc.",BBIG,1:20,True
+2023-05-10,Tonix Pharmaceuticals Holding Corp.,TNXP,4:25,True
+2023-05-04,GeneDx Holdings Corp. Class A,WGS,1:33,True
+2023-08-11,"Mullen Automotive, Inc.",MULN,1:25,True
+2023-04-27,"EzFill Holdings, Inc.",EZFL,1:8,True
+2023-04-26,SharpLink Gaming Ltd. Ordinary Shares,SBET,1:10,False
+2023-06-01,"Calyxt, Inc.",CLXT,1:10,True
+2023-04-25,"cbdMD, Inc.",YCBD,1:45,True
+2023-04-24,BK Technologies Corporation,BKTI,1:5,True
+2023-04-24,"LogicMark, Inc.",LGMK,1:20,True
+2023-04-24,Predictive Oncology Inc.,POAI,1:20,True
+2023-08-02,"Smart for Life, Inc.",SMFL,1:50,True
+2023-08-29,"Orbital Infrastructure Group, Inc.",OIG,1:40,True
+2023-04-21,"Ouster, Inc.",OUST,1:10,True
+2023-04-19,"Actelis Networks, Inc.",ASNS,1:10,True
+2023-04-19,"Verb Technology Company, Inc.",VERB,1:40,True
+2023-04-14,Arrival Ordinary Shares,ARVL,1:50,True
+2023-04-12,ContextLogic Inc. Class A,WISH,1:30,True
+2023-04-11,Blackboxstocks Inc.,BLBX,1:4,True
+2023-04-05,The Alkaline Water Company Inc.,WTER,1:15,True
+2023-04-04,"Cryptyde, Inc.",TYDE,1:50,True
+2023-04-03,"China Natural Resources, Inc.",CHNR,1:5,True
+2023-03-31,"Helbiz, Inc. Class A",HLBZ,1:50,True
+2023-06-29,"Allarity Therapeutics, Inc.",ALLR,1:35,True
+2023-03-24,"Freight Technologies, Inc.",FRGT,1:10,True
+2023-03-24,Focus Universal Inc.,FCUV,3:2,True
+2023-03-23,"Protagenic Therapeutics, Inc.",PTIX,1:4,True
+2023-03-23,Alpha Architect Tail Risk ETF,CAOS,1:8,True
+2023-03-23,Redhill Biopharma Ltd. American Depositary Shares,RDHL,1:40,True
+2023-03-23,T Stamp Inc.,IDAI,1:5,True
+2023-03-22,Baosheng Media Group Holdings Limited Ordinary shares,BAOS,1:6,True
+2023-03-22,Luokung Technology Corp Ordinary Shares,LKCO,1:30,True
+2023-03-22,"Via Renewables, Inc. Class A",VIA,1:5,True
+2023-03-13,"Kiromic BioPharma, Inc.",KRBP,1:30,True
+2023-10-06,"Kaleyra, Inc.",KLR,1:3,True
+2023-03-06,"China Pharma Holdings, Inc.",CPHI,1:10,True
+2023-03-06,"Harbor Custom Development, Inc.",HCDI,1:20,True
+2023-03-06,Assure Holdings Corp.,IONM,1:20,True
+2023-03-01,"Arcadia Biosciences, Inc.",RKDA,1:40,True
+2023-02-24,"Windtree Therapeutics, Inc.",WINT,1:50,True
+2023-02-23,"Reliance Global Group, Inc.",RELI,1:15,True
+2023-02-22,Esports Entertainment Group Inc.,GMBL,1:100,True
+2023-02-22,Amesite Inc.,AMST,1:12,True
+2023-05-25,"Athenex, Inc.",ATNX,1:20,True
+2023-06-26,"Genius Brands International, Inc.",GNUS,1:10,True
+2023-02-10,ComSovereign Holding Corp.,COMS,1:100,True
+2023-02-10,Intelligent Bio Solutions Inc.,INBS,1:20,True
+2023-02-10,"Soligenix, Inc.",SNGX,1:15,True
+2023-02-09,"NanoVibronix, Inc.",NAOV,1:20,True
+2023-02-08,"Digital Ally, Inc.",DGLY,1:20,True
+2023-02-02,Dynatronics Corporation,DYNT,1:5,True
+2023-02-01,"Revelation Biosciences, Inc.",REVB,1:35,True
+2023-02-01,Future FinTech Group Inc.,FTFT,1:5,True
+2023-01-27,"Summit Wireless Technologies, Inc.",WISA,1:100,True
+2023-01-26,Edible Garden AG Incorporated,EDBL,1:30,True
+2023-01-26,Swvl Holdings Corp Class A Common Shares,SWVL,1:25,True
+2023-01-25,Cemtrex Inc.,CETX,1:35,True
+2023-01-23,Aptorum Group Limited Class A Ordinary Shares,APM,1:10,True
+2023-01-23,Oragenics Inc.,OGEN,1:60,True
+2023-01-20,ZW Data Action Technologies Inc.,CNET,1:5,True
+2023-01-09,"Guardion Health Sciences, Inc.",GHSI,1:50,True
+2023-01-06,"NextPlay Technologies, Inc.",NXTP,1:20,True
+2023-01-05,Avalon GloboCare Corp.,ALBT,1:10,True
+2023-01-05,"Tenax Therapeutics, Inc.",TENX,1:20,True
+2023-01-04,Oblong Inc.,OBLG,1:15,True
+2022-12-29,"NuZee, Inc.",NUZE,1:35,True
+2022-12-23,"ReShape Lifesciences, Inc.",RSLS,1:50,True
+2022-12-22,"ThermoGenesis Holdings, Inc.",THMO,1:45,True
+2022-12-21,"Camber Energy, Inc",CEI,1:50,True
+2022-12-20,MediWound Ltd. Ordinary Shares,MDWD,1:7,True
+2022-12-20,"SiNtx Technologies, Inc.",SINT,1:100,True
+2022-12-19,180 Life Sciences Corp.,ATNF,1:20,True
+2022-12-16,Cosmos Holdings Inc.,COSM,1:25,True
+2022-12-15,Bit Brother Limited Class A Ordinary Shares,BTB,1:15,True
+2023-03-29,"Puhui Wealth Investment Management Co., Ltd. Ordinary Shares",PHCF,1:6,True
+2022-12-13,Paysafe Limited,PSFE,1:12,True
+2022-12-12,AirNet Technology Inc.,ANTE,1:4,False
+2022-12-12,NF Energy Saving Corporation,BIMI,1:10,True
+2023-09-07,Grom Social Enterprises Inc.,GROM,1:30,True
+2022-12-09,"My Size, Inc.",MYSZ,1:25,True
+2022-12-09,ENDRA Life Sciences Inc.,NDRA,1:20,True
+2022-12-09,"UpHealth, Inc.",UPH,1:10,True
+2022-12-01,"Petros Pharmaceuticals, Inc.",PTPI,1:10,True
+2022-11-29,"CNS Pharmaceuticals, Inc.",CNSP,1:30,True
+2022-11-25,Check-Cap Ltd.,CHEK,1:20,True
+2022-11-23,"SuperCom, Ltd.",SPCB,1:10,True
+2022-11-16,"NovaBay Pharmaceuticals, Inc.",NBY,1:35,True
+2022-11-16,TIAN RUIXIANG Holdings Ltd Class A Ordinary Shares,TIRX,1:5,True
+2022-11-14,"Kintara Therapeutics, Inc.",KTRA,1:50,True
+2023-06-26,OncoSec Medical Incorporated,ONCS,1:22,True
+2023-01-10,Code Chain New Continent Limited,CCNC,1:30,True
+2022-11-08,Akerna Corp.,KERN,1:20,True
+2022-11-04,"Gaucho Group Holdings, Inc. Common Stock",VINO,1:12,True
+2023-03-31,"Ensysce Biosciences, Inc.",ENSC,1:20,True
+2022-10-26,"Hoth Therapeutics, Inc.",HOTH,1:25,True
+2022-10-21,"Kala Pharmaceuticals, Inc.",KALA,1:50,True
+2023-07-05,Agrify Corporation,AGFY,1:10,True
+2022-10-18,Air Industries Group,AIRI,1:10,True
+2023-07-26,"9 Meters Biopharma, Inc.",NMTR,1:20,True
+2023-03-15,Inpixon,INPX,1:75,True
+2022-09-26,Color Star Technology Co.,CSCW,1:40,True
+2023-08-18,"Aditxt, Inc.",ADTX,1:50,True
+2022-09-09,"Infobird Co., Ltd",IFBD,1:5,True
+2022-09-01,"ShiftPixy, Inc.",PIXY,1:100,True
+2022-08-26,RiceBran Technologies,RIBT,1:10,True
+2022-08-25,Nutriband Inc.,NTRB,7:6,True
+2022-08-17,"TD Holdings, Inc.",GLG,1:5,True
+2022-08-11,Sentage Holdings Inc. Ordinary Shares,SNTG,1:5,True
+2022-08-10,"Artelo Biosciences, Inc.",ARTL,1:15,True
+2022-08-05,"U.S. Well Services, Inc.",USWS,1:6,True
+2022-07-28,Greenpro Capital Corp.,GRNQ,1:10,True
+2022-07-15,"Enveric Biosciences, Inc.",ENVB,1:50,True
+2022-07-13,"MMTec, Inc.",MTC,1:10,True
+2022-07-08,"Avalo Therapeutics, Inc.",AVTX,1:12,True
+2022-07-08,"IT Tech Packaging, Inc.",ITP,1:10,True
+2022-06-27,"Borqs Technologies, Inc.",BRQS,1:16,True
+2022-06-14,"TDH Holdings, Inc.",PETZ,1:20,True
+2022-05-27,Blue Hat,BHAT,1:10,True
+2022-05-25,Baosheng Media Group Holdings,BAOS,5:16,True
+2023-10-05,"China SXT Pharmaceuticals, Inc.",SXTC,1:20,True
+2048-08-20,"PolarityTE, Inc.",PTE,1:25,True
+2023-05-10,Tonix Pharmaceuticals Holding Corp.,TNXP,1:32,True
+2022-05-09,TherapeuticsMD,TXMD,1:50,True
+2022-05-06,Meten Holding Group Ltd.,METX,1:30,True
+2022-04-27,InVivo Therapeutics Holdings Corp,NVIV,1:25,True
+2022-04-22,Ucommune International Ltd Ordinary Shares,UK,1:20,True
+2022-04-07,"China Jo-Jo Drugstores, Inc.",CJJD,1:12,True
+2022-04-06,Senmiao Technology Limited Common Stock,AIHS,1:10,True
+2022-12-05,"America First Multifamily Investors, L.P. Beneficial Unit Certificates",BUCs,1:3,False
+2023-09-13,"Avinger, Inc.",AVGR,1:20,True
+2022-03-01,"Pulmatrix, Inc.",PULM,1:20,False
+2022-02-28,"Massroots, Inc.",MSRT,1:300,True
+2022-05-27,Hudson Capital Inc.,HUSN,5:11,True
+2022-02-09,CYREN Ltd.,CYRN,1:20,True
+2022-02-03,BIMI International Medical,BIMI,1:5,True
+2022-01-31,ASCENT SOLAR TECHNOLOGIES INC,ASTI,1:2,True
+2022-01-14,Naked Brand Group Limited Ordinary Shares,NAKD,1:15,True
+2021-10-25,"P10 Holdings, Inc.",PIOE,7:10,False
+2022-03-02,"Nxt-ID, Inc.",NXTD,1:10,True
+2022-08-05,"U.S. Well Services, Inc.",USWS,2:7,True
+2021-09-09,Superconductor Technologies Inc.,SCON,1:3,True
+2021-08-30,ATIF Holdings Limited,ATIF,1:5,True
+2021-08-02,SolarWinds Corporation,SWI,1:2,True
+2021-08-04,Intec Pharma Ltd.,NTEC,1:4,True
+2021-04-27,"InspireMD, Inc.",NSPR,1:15,True
+2021-04-19,Akers Biosciences,AKER,2:1,True
+2023-01-09,"Guardion Health Sciences, Inc.",GHSI,1:6,True
+2021-03-01,"Tengasco, Inc.",TGC,1:12,True
+2023-10-05,"China SXT Pharmaceuticals, Inc.",SXTC,1:4,True
+2021-02-01,"Moleculin Biotech, Inc.",MBRX,1:6,True
+2021-01-19,Internet Gold Golden Lines Ltd.,IGLDF,1:250,False
+2023-06-05,"Acorda Therapeutics, Inc.",ACOR,1:6,True
+2020-12-31,"Ameri Holdings, Inc.",AMRH,1:4,True
+2020-12-22,Washington Prime Group,WPG,1:9,True
+2020-12-09,Aytu BioScience,AYTU,1:10,True
+2020-12-02,Viveve Medical,VIVE,1:10,True
+2020-12-01,Titan Pharmaceuticals,TTNP,1:30,True
+2020-11-30,Hancock Jaffe Laboratories Inc.,HJLI,1:25,True
+2020-11-27,"Dolphin Entertainment, Inc.",DLPN,1:5,False
+2020-11-24,CVR Partners LP,UAN,1:10,False
+2020-11-23,Enservco,ENSV,1:15,True
+2020-11-20,BIO-key,BKYI,1:8,True
+2020-11-10,Summit Midstream,SMLP,1:15,False
+2020-11-09,WidePoint,WYY,1:10,True
+2020-10-30,Intec Pharma,NTEC,1:20,True
+2020-10-29,Hudson Capital,HUSN,1:5,True
+2020-10-19,Abraxas Petroleum,AXAS,1:20,True
+2020-10-14,Cool Holdings,AWSM,1:10,True
+2020-10-13,Sharing Economy Int'l,SEII,1:50,True
+2020-09-16,ImmunoCellular Therapeutics,IMUC,1:10,False
+2020-09-03,China Ceramics Co.,CCCL,1:3,True
+2021-06-16,"Urban Tea, Inc.",MYT,1:10,True
+2020-08-17,Shineco,TYHT,1:9,True
+2020-08-14,Ocwen Financial Corporation,OCN,1:15,True
+2020-08-12,NeuroBo Pharmaceuticals CVR,NRBO^,1:25,False
+2020-08-03,Houston American Energy,HUSA,1:12,True
+2023-05-01,"Vislink Technologies, Inc.",VISL,1:6,True
+2023-07-24,Atento S.A.,ATTO,1:5,True
+2023-08-01,Taoping Inc.,TAOP,1:6,True
+2020-10-01,BBX Capital,BBX,1:5,True
+2020-07-10,"JAKKS Pacific, Inc.",JAKK,1:10,True
+2020-07-07,"Sino-Global Shipping America, Ltd",SINO,1:5,True
+2020-05-29,DropCar Inc,DCAR,1:10,True
+2020-05-28,Teligent,TLGT,1:10,True
+2020-05-20,RumbleOn,RMBL,1:20,True
+2020-05-11,Aurora Cannabis,ACB,1:12,False
+2021-10-01,"Document Security Systems, Inc.",DSS,1:30,True
+2020-04-15,ToughBuilt Industries,TBLT,1:10,True
+2020-04-15,China Recycling Energy,CREG,1:10,True
+2020-04-13,Pacific Ventures Group,PACV,1:500,True
+2020-04-09,Summit Wireless,WISA,1:20,True
+2020-03-25,Ekso Bionics,EKSO,1:15,True
+2020-03-16,Summer Infant,SUMR,1:9,True
+2020-03-09,Key Energy Services,KEGX,1:50,True
+2020-02-28,Sigma Labs,SGLB,1:10,True
+2020-02-12,InVivo Therapeutics,NVIV,1:30,True
+2020-01-28,Gulf Resources,GURE,1:5,True
+2020-01-15,Interpace Biosciences,IDXG,1:10,True
+2023-03-15,Inpixon,INPX,1:45,True
+2019-12-27,Recon Technology,RCON,1:5,False
+2019-12-24,Delcath Sys,DCTH,1:700,True
+2019-12-23,Nova Lifestyle,NVFY,1:5,True
+2019-12-20,Amira Nature Foods,ANFI,1:20,True
+2019-12-20,Naked Brand,NAKD,1:100,True
+2019-12-16,ShiftPixy,PIXY,1:40,True
+2019-12-12,TransEnterix,TRXC,1:13,True
+2019-12-05,Nemaura Medical,NMRD,1:10,True
+2019-11-29,Comstock Mining,LODE,1:5,True
+2019-11-27,Growlife,PHOT,1:150,True
+2021-04-19,Akers Biosciences,AKER,1:24,True
+2019-11-25,Ameri Holdings,AMRH,1:25,True
+2019-11-19,NeuroMetrix WarrantS,NUROW,1:10,False
+2019-11-19,My Size,MYSZ,1:15,True
+2019-11-18,DarioHealth,DRIO,1:20,True
+2019-11-08,TRACON Pharmaceuticals,TCON,1:10,True
+2019-11-01,Applied DNA Sciences,APDN,1:40,True
+2019-11-01,Tonix Pharmaceuticals,TNXP,1:10,True
+2019-10-29,Camber Energy,CEI,1:50,True
+2019-10-29,Predictive Oncology,POAI,1:10,True
+2019-10-22,Capstone Turbine,CPST,1:10,True
+2019-10-22,Kingold Jewelry,KGJI,1:6,True
+2019-10-16,Vicon Industries,VCON,1:2000,True
+2019-10-15,Aethlon Medical,AEMD,1:15,True
+2019-09-26,One Horizon Group,OHGI,1:25,True
+2019-09-24,NanoViricides,NNVC,1:20,True
+2019-09-23,American Green,ERBB,1:500,True
+2019-09-03,Marijuana Company of America,MCOA,1:60,True
+2019-08-30,Sunworks,SUNW,1:7,True
+2019-08-29,OpGen WarrantS,OPGNW,1:20,True
+2019-08-20,Ideal Power,IPWR,1:10,True
+2019-12-02,Internet Gold Golden Lines,IGLD,1:100,True
+2019-08-09,FalconStor Software,FALC,1:100,True
+2019-08-06,Plus Therapeutics,PSTV,1:50,True
+2019-07-30,Sysorex,SYSX,1:100,True
+2020-01-21,SiNtx Technologies,SINT,1:30,True
+2019-07-25,Obalon,OBLN,1:10,True
+2019-07-25,Pluristem Therapeutics,PSTI,1:10,True
+2020-05-18,Synthesis Energy Systems,SES,1:8,True
+2019-11-01,Neuralstem,CUR,1:20,True
+2019-10-29,Camber Energy,CEI,1:25,True
+2020-04-17,Yuma Energy,YUMA,1:15,True
+2019-07-02,Neovasc,NVCN,1:10,False
+2019-07-01,aTyr Pharma,LIFE,1:14,True
+2019-06-28,China Green Agriculture,CGA,1:12,False
+2019-06-25,Xenetic Biosciences,XBIO,1:12,True
+2019-06-13,Cemtrex,CETX,1:8,True
+2019-06-11,Hudson Global,HSON,1:10,True
+2019-09-03,Hemispherx,HEB,1:44,True
+2019-06-10,Stellar Biotechnologies,SBOT,1:6,False
+2041-05-24,Obsidian Energy,OBE,1:7,False
+2019-06-05,Digirad,DRAD,1:10,True
+2019-11-01,Cesca Therapeutics,KOOL,1:10,True
+2019-06-03,ContraVir,CTRV,1:70,True
+2019-05-22,Genocea Biosciences,GNCA,1:8,True
+2019-05-21,Navios Maritime,NMM,1:15,False
+2019-05-13,Vislink Technologies,VISL,1:10,True
+2020-03-09,Glowpoint,GLOW,1:10,True
+2019-04-15,Vital Therapies,VTL,1:40,True
+2019-04-08,Marathon Patent Group,MARA,1:4,True
+2019-04-01,ReWalk Robotics,RWLK,1:25,False
+2019-03-26,CorMedix,CRMD,1:5,True
+2019-03-18,"Attis Industries, Inc.",ATIS,1:8,True
+2019-03-15,Reebonz Holding Limited,RBZ,1:8,True
+2019-03-12,Ocean Power Technologies,OPTT,1:20,True
+2020-07-16,Endologix,ELGX,1:10,True
+2019-02-20,TrovaGene,TROV,1:6,True
+2019-02-06,Pulmatrix Inc,PULM,1:10,True
+2020-12-01,Titan Pharmaceuticals,TTNP,1:6,True
+2019-01-24,Apricus Biosciences,APRI,1:30,True
+2019-01-18,Bio-Path Holdings,BPTH,1:20,True
+2019-09-12,Och-Ziff Capital Management,OZM,1:10,True
+2019-01-02,Regional Health Properties,RHE,1:12,True
+2019-10-29,Camber Energy,CEI,1:25,True
+2018-12-17,Platinum Group Metals,PLG,1:10,True
+2018-12-14,Diffusion Pharmaceuticals,DFFN,1:15,True
+2018-12-14,Global Boatworks Holdings,GBBT,1:1,True
+2018-10-01,American Lorain Company,ALN,1:25,True
+2018-09-26,Onconova Therapeutics,ONTX,1:15,True
+2018-09-11,Vivus Inc,VVUS,1:10,True
+2018-09-05,Microbot Medical,MBOT,1:15,True
+2021-07-26,Auris Medical Holding,EARS,1:10,True
+2017-10-11,InfoSonics Corp,IFON,1:5,True
+2017-10-10,"Tandem Diabetes Care, Inc.",TNDM,1:10,True
+2019-05-06,"Alliqua BioMedical, Inc.",ALQA,1:10,True
+2023-09-29,"TOP Ships, Inc.",TOPS,1:2,False
+2021-11-05,"Net Element, Inc.",NETE,1:10,True
+2017-08-29,LiNiu Technology Group,LINU,1:6,True
+2017-08-03,TOP SHIPS Inc,TOPS,1:30,False
+2017-06-19,"Cobalt International Energy, Inc.",CIE,1:15,True
+2017-03-13,Fibrocell Science Inc,FCSC,1:3,True
+2017-02-23,"Rennova Health, Inc",RNVA,1:30,True
